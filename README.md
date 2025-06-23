@@ -1,20 +1,4 @@
-## Hi there 👋
-
-
-**KeyMedDev/KeyMedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<p align="left">Hello World!!</p>
+<p align="left"># 👋 ¡Hola! Soy Key<br><br>🎓 **Ingeniero de Software** | 🛠️ **Técnico de Sistemas**<br>Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología, el desarrollo de software y la resolución de problemas mediante código. Me gusta aprender constantemente y crear soluciones eficientes y escalables, tanto en el ámbito del software como en la administración de sistemas.</p>
 
 ###
 
@@ -25,11 +9,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -55,8 +35,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
@@ -64,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">## 🚀 Sobre mí<br><br>- 👨‍💻 Me especializo en el desarrollo de aplicaciones **back-end y front-end**.<br>- 🧰 Tengo sólidos conocimientos en **mantenimiento de equipos**, **sistemas operativos**, y **redes**.<br>- 📚 Siempre estoy aprendiendo nuevas tecnologías y metodologías de desarrollo.<br>- 🧠 Me interesa la automatización, la ciberseguridad y la arquitectura de sistemas.<br><br>✏️ Rust / C++ / TypeScript / Vue / Python / SystemVerilog<br>📦 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm<br>🌱 Doing Web security research with @chenjj<br>💭 Ask me anything at Discussions!<br>🔍 CVEs discovered by me<br>⭐ Projects starred by me<br>🔑 GPG key: 863A0F9FA8127FA4</p>
 
 ###
 
