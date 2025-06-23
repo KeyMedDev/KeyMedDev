@@ -1,4 +1,4 @@
-<p align="left"># 👋 ¡Hola! Soy Key<br><br>🎓 **Ingeniero de Software** | 🛠️ **Técnico de Sistemas**<br>Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología, el desarrollo de software y la resolución de problemas mediante código. Me gusta aprender constantemente y crear soluciones eficientes y escalables, tanto en el ámbito del software como en la administración de sistemas.</p>
+<p align="left">👋 ¡Hola! Soy Key<br><br>🎓 Ingeniero de Software | 🛠️ Técnico de Sistemas<br>Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología, el desarrollo de software y la resolución de problemas mediante código. Me gusta aprender constantemente y crear soluciones eficientes y escalables, tanto en el ámbito del software como en la administración de sistemas.</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">## 🚀 Sobre mí<br><br>- 👨‍💻 Me especializo en el desarrollo de aplicaciones **back-end y front-end**.<br>- 🧰 Tengo sólidos conocimientos en **mantenimiento de equipos**, **sistemas operativos**, y **redes**.<br>- 📚 Siempre estoy aprendiendo nuevas tecnologías y metodologías de desarrollo.<br>- 🧠 Me interesa la automatización, la ciberseguridad y la arquitectura de sistemas.<br><br>✏️ Rust / C++ / TypeScript / Vue / Python / SystemVerilog<br>📦 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm<br>🌱 Doing Web security research with @chenjj<br>💭 Ask me anything at Discussions!<br>🔍 CVEs discovered by me<br>⭐ Projects starred by me<br>🔑 GPG key: 863A0F9FA8127FA4</p>
+<p align="left">🚀 Sobre mí<br><br>- 👨‍💻 Me especializo en el desarrollo de aplicaciones **back-end y front-end.<br>- 🧰 Tengo sólidos conocimientos en **mantenimiento de equipos**, **sistemas operativos**, y **redes**.<br>- 📚 Siempre estoy aprendiendo nuevas tecnologías y metodologías de desarrollo.<br>- 🧠 Me interesa la automatización, la ciberseguridad y la arquitectura de sistemas.<br><br>✏️ Rust / C++ / TypeScript / Vue / Python / SystemVerilog<br>📦 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm<br>🌱 Doing Web security research with @chenjj<br>💭 Ask me anything at Discussions!<br>🔍 CVEs discovered by me<br>⭐ Projects starred by me<br>🔑 GPG key: 863A0F9FA8127FA4</p>
 
 ###
 
