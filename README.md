@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I’m Key, an Electronics Technician.</h3>
+<h3 align="center">I’m Key, an Electronics Tech.</h3>
 
 ###
 
